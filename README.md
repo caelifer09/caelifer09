@@ -11,7 +11,7 @@
 
 ### Technologies
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/)
-[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />](https://pt-br.reactjs.org/)
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />](https://developer.mozilla.org/es/docs/Web/JavaScript)
+[<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />](https://es.react.dev/)
 [<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />](https://reactnative.dev/)
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />](https://nodejs.org/en/)
